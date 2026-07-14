@@ -25,6 +25,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PanDetailActivity"
+            android:exported="false"
+            android:label="Detalle del Pan"
+            android:theme="@style/Theme.TiposDePanDemo.NoActionBar" />
     </application>
 
 </manifest>
