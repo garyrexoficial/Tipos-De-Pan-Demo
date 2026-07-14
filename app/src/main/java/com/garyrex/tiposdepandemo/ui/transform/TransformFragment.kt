@@ -71,8 +71,8 @@ class TransformFragment : Fragment() {
         private val drawables = listOf(
             R.drawable.concha,
             R.drawable.bolillo,
-            R.drawable.avatar_3,
-            R.drawable.avatar_4,
+            R.drawable.cuernito,
+            R.drawable.oreja,
             R.drawable.avatar_5,
             R.drawable.avatar_6,
             R.drawable.avatar_7,
